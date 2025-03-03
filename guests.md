@@ -14,5 +14,4 @@
 | Lilian Rasmussen  | 4             |
 | Julian            | 3             |
 | Maxibon           | 5 	          |
-| Lara Roberts      | 1	            |
-| Dalya Meyer       | 1	            |
+| Lara Roberts      | 2	            |
